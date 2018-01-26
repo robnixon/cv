@@ -11,7 +11,7 @@
   uni: Wheatley Park School
   year: 2015 &mdash; 2017
   awards: 
-    - Grade C AS Further Mathematics
-    - Grade A Level 3 Extended Project Qualification
-    - Year 13 Achievement in Computer Science
-  summary: Grade A Mathematics, Garde B Computer Science, Grade C Physics
+    - award: Grade A Mathematics
+    - award: Garde B Computer Science
+    - award: Grade C Physics
+  summary: I also achieved Grade C AS Further Mathematics, Grade A Level 3 Extended Project Qualification and a Year 13 Achievement in Computer Science
