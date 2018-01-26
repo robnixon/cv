@@ -4,11 +4,11 @@
 - project: Computing Tutor
   role: Creator, Writer, Video Host, Video Editor and Web Developer 
   duration: 2016 &mdash; Present
-   url: "https://computingtutor.net"
+  url: "https://computingtutor.net"
   description: Computing Tutor is a website and YouTube channel which aims to help users understand Computer Science topics through video tutorials.
 
 - project: Computing Tutor Android Application
   role: Android Developer
   duration: 2017 &mdash; Present
-   url: "https://play.google.com/store/apps/details?id=net.computingtutor.robert.computingtutor"
+  url: "https://play.google.com/store/apps/details?id=net.computingtutor.robert.computingtutor"
   description: A native Android client for viewing Computing Tutor videos on the go.
