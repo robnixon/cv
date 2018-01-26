@@ -1,9 +1,11 @@
 # Skills
 # Donut design
-- skill: Programming Language Experience
-  description: Python, Java, Kotlin (in that order)
-- skill: Software Development Tools
-  description: Git/Github
+- skill: Languages
+  description: Python (Proficient), HTML (Proficent), CSS (Prior Experience), Java (Prior Experience), Kotlin (Prior Experience)
+- skill: Tools
+  description: Git/Github, Netbeans, Pycharm, IntelliJ IDEA, Android Studio, Visual Studio Code, Joomla
+- skill: Operating Systems
+  description: Linux (Ubuntu-based systems), Windows
 - skill: Multimedia Tools
   description: GIMP, Kdenlive
 
