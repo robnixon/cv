@@ -1,12 +1,5 @@
 # Jobs
-# Springfield Nuclear Power Plant
-#- company: Springfield Nuclear Power Plant
-#  position: Safety Inspector
-#  duration: Nov, 1980 &mdash; Present
-#  summary: Write about your core competencies in one or two sentences describing your position. If you held the position for a long time, it could be a longer section, including a couple bullet points	<ul class="resume-item-list"><li>Ate lots of donuts</li><li>Fell asleep rarely</li><li>Left promptly at end of day (sometimes earlier)</li></ul>
-
-# Windmill Crank Operator
-#- company: Sir Putt-A-Lot's Merrie Olde Fun Centre
-#  position: Safety Inspector
-#  duration:  Jun, 1978 &mdash; Sept, 1979
-#  summary: If your stint was shorter, feel free to be brief and just call out the most meaningful points of your role. Be concise, and be meaninful. The person reading just needs enough to want to talk to you more about your experience.
+- company: Develop 1 Ltd
+  position: Work Experience Student
+  duration: July 2016
+  summary: I joined Develop 1 for a week of work experience after finishing my AS Levels. Whilst there I worked on managing and maintaining SQL databases with MS server management studio. I also learned about the admin side of running a small business, for example I was put in change of calculating the expenses for the company for the past year.
