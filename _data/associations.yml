@@ -1,15 +1,23 @@
 # Associations
 # comment out the urls if you do not wish to display them
 
-#- organization: Beer for the World
-#  role: Volunteer
-#  year: 2008 &mdash; Present
-#  url: http://beerfortheworld.com
-#  summary: Organized fund drives and participated in fundraising events for the benefit of families in third world countries without proper access to malt beverages.
+- organization: North Oxfordshire Green Party
+  role: Co-chair
+  year: 2017 &mdash; Present
+  summary: I'm heavily involved with the overall running of the branch. This includes organizing and chairing meetings, helping to oversee the direction of the party locally and running events. 
 
+- organization: North Oxfordshire Green Party
+  role: Website Developer
+  year: 2015 &mdash; Present
+  url: http://nogp.org.uk
+  summary: Before I joined the Green Party my local branch had no website and were reliant of Facebook and Twitter for their online presence. I created a website for them and have continued the update and adapt it as requirements change. You can find the website at <a href="http://nogp.org.uk">http://nogp.org.uk</a> 
 
-#- organization: Springfield Nuclear Workers Labor Union
-#  role: Member in Good Standing
-#  year: 1994 &mdash; Present
-#  url: http://snwlu.org
-#  summary: Founding member of the local nuclear workers labor union.
+- organization: North Oxfordshire Green Party
+  role: Membership Secretary
+  year: 2017 &mdash; Present
+  summary: I manage the branch membership records. This includes using CiviCRM and making sure that members are informed about news and upcoming events.
+
+- organization: North Oxfordshire Green Party
+  role: Vice Chair
+  year: 2015 &mdash; 2017
+  summary: I assisted the Chair with the overall running of the branch including the organization and chairing of meetings and the organization of events.
