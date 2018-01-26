@@ -1,5 +1,7 @@
 # Skills
 # Donut design
-#- skill: Donut design
-#  description: Sprinkle art, icing design, eclair management, taste testing, donut/coffee pairing research
+- skill: Programming Language Experience
+  description: Python, Java, Kotlin (in that order)
+- skill: Software Development Tools
+  description: Git/Github
 
