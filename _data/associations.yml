@@ -2,9 +2,13 @@
 # comment out the urls if you do not wish to display them
 
 - organization: North Oxfordshire Green Party
+  role: Chair
+  year: 2018 &mdash; Present
+  summary: I'm responsible for the overall running of the branch. This includes organizing and chairing meetings, helping to oversee the direction of the party locally and running events.
+
+- organization: North Oxfordshire Green Party
   role: Co-chair
-  year: 2017 &mdash; Present
-  summary: I'm heavily involved with the overall running of the branch. This includes organizing and chairing meetings, helping to oversee the direction of the party locally and running events. 
+  year: 2017 &mdash; 2018
 
 - organization: North Oxfordshire Green Party
   role: Website Developer
