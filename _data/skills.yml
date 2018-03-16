@@ -1,11 +1,11 @@
 # Skills
 # Donut design
 - skill: Languages
-  description: Python (Proficient), HTML (Proficient), Markdown (Proficient), TeX (Prior Experience), CSS (Prior Experience), Java (Prior Experience), Kotlin (Prior Experience)
+  description: Python (Proficient), Java (Proficient), HTML (Proficient), Markdown (Proficient), TeX (Proficient), CSS (Prior Experience), JavaScript (Prior Experience), Kotlin (Prior Experience)
 - skill: Tools
-  description: Git/Github, Netbeans, Pycharm, IntelliJ IDEA, Android Studio, Visual Studio Code, Joomla, CLI/Terminal
+  description: Git/Github, NetBeans, PyCharm, IntelliJ IDEA, Android Studio, Visual Studio Code, Joomla, CLI/Terminal
 - skill: Operating Systems
-  description: Linux (Ubuntu-based systems), Windows
+  description: Linux (Ubuntu-based distributions), Windows
 - skill: Multimedia Tools
   description: GIMP, Kdenlive
 - skill: Office Software
