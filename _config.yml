@@ -15,7 +15,7 @@ resume_title:                   "CS Student at Oxford Brookes University"
 resume_contact_email:           "robert@robertnixon.net"
 resume_contact_telephone:       "07557 023792"
 resume_contact_address:         "21 Grebe Road, Bicester"
-resume_header_contact_info: "21 Grebe Road, Bicester | 07557023792 | robertnixon59@gmail.com"
+resume_header_contact_info: "21 Grebe Road, Bicester | 07557023792 | robert@robertnixon.net"
 resume_header_intro: "I'm a Computer Science student from Oxfordshire. I enjoy explaining Computer Science topics to a wide audience through Computing Tutor. I aim to either develop software or teach Computer Science professionally in the future."
 
 # use "yes" to display the email contact button,
@@ -42,9 +42,9 @@ resume_social_links:
   resume_twitter_url:           "http://twitter.com/_robertjnixon"
   # resume_dribbble_url:          ""
   resume_facebook_url:          "https://www.facebook.com/the.robert.j.nixon"
-  resume_linkedin_url:          "https://www.linkedin.com/in/prorobertnixon"
+  resume_linkedin_url:          "https://www.linkedin.com/in/robertjosephnixon/"
   # resume_instagram_url:         "insert your Instagram URL here"
-  resume_website_url:           "http://robertnixon.net"
+  resume_website_url:           "https://robertnixon.net"
 resume_print_social_links:      true
 
 # Design settings
