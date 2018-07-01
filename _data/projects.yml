@@ -5,7 +5,7 @@
   role: Creator, Writer, Video Host, Video Editor and Web Developer 
   duration: 2016 &mdash; Present
   url: "https://computingtutor.net"
-  description: Computing Tutor is a website and YouTube channel which aims to help users understand Computer Science topics through video tutorials. computingtutor.net
+  description: Computing Tutor is a website and YouTube channel which aims to help users understand Computer Science topics through video tutorials. <p class="resume-item-copy">computingtutor.net</p>
 
 - project: Computing Tutor Android Application
   role: Android Developer
