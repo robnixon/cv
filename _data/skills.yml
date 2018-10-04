@@ -1,13 +1,13 @@
 # Skills
 # Donut design
 - skill: Languages
-  description: Python (Proficient), Java (Proficient), HTML (Proficient), Markdown (Proficient), TeX (Proficient), CSS (Prior Experience), JavaScript (Prior Experience), Kotlin (Prior Experience)
+  description: Python (6 years), Java (2 years), HTML (3 years), Markdown (2 years), LaTeX (1 year), CSS (6 months), JavaScript (6 months)
 - skill: Tools
-  description: Git/Github, NetBeans, PyCharm, IntelliJ IDEA, Android Studio, Visual Studio Code, Joomla, CLI/Terminal
+  description: Git Version Control (2 years), NetBeans (2 years), PyCharm (2 years), Android Studio (1 year), Visual Studio Code (2 years)
 - skill: Operating Systems
-  description: Linux (Ubuntu-based distributions), Windows
+  description: Linux/Unix (3 years), Windows (8 years)
 - skill: Multimedia Tools
-  description: GIMP, Kdenlive
+  description: GIMP (2 years), Kdenlive (1 year)
 - skill: Office Software
-  description: LibreOffice, MS Office, Google Drive 
+  description: LibreOffice (2 years), MS Office (8 years), Google Drive (6 years)
 
