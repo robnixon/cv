@@ -1,13 +1,13 @@
 # Projects
 # uncomment the urls if you wish to display them, and add your own URL
 
-- project: Computing Tutor
-  role: Creator, Writer, Video Host, Video Editor and Web Developer 
-  duration: 2016 &mdash; Present
-  url: "https://computingtutor.net"
-  description: Computing Tutor is a website and YouTube channel which aims to help users understand Computer Science topics through video tutorials. <p class="resume-item-copy"><a href="https://computingtutor.net">computingtutor.net</a></p>
+# - project: Computing Tutor
+#   role: Creator, Writer, Video Host, Video Editor and Web Developer 
+#   duration: 2016 &mdash; Present
+#   url: "https://computingtutor.net"
+#   description: Computing Tutor is a website and YouTube channel which aims to help users understand Computer Science topics through video tutorials. <p class="resume-item-copy"><a href="https://computingtutor.net">computingtutor.net</a></p>
 
-- project: Computing Tutor Android Application
-  role: Android Developer
-  duration: 2017 &mdash; Present
-  description: A native Android client for viewing Computing Tutor videos on the go.
+# - project: Computing Tutor Android Application
+#   role: Android Developer
+#   duration: 2017 &mdash; Present
+#   description: A native Android client for viewing Computing Tutor videos on the go.
