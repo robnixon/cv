@@ -1,18 +1,21 @@
 # Jobs
+- company: Wheatley Park School
+  position: Associate Teacher
+  duration: September 2020 - Present
 - company: Bicester Town Council
   position: Councillor
   duration: May 2019 - Present
   summary: Green Party councillor representing Bicester East
 - company: Oxfordshire Green Party
   position: Party Manager
-  duration: November 2019 - Present
+  duration: November 2019 - October 2020
 - company: Sophos
   position: Software Engineer
   duration: July 2019 - September 2019
 - company: Global Academy Jobs
   position: Junior Web Developer
   duration: April 2018 - June 2019
-  summary: <strong>Key Responsibilities</strong><br /><ul class="resume-item-list"><li>Applying technical knowledge to a social enterprise project called The Global Academy. Providing technical knowledge to the decision making process and developing features required for the project website <p class="resume-item-copy"><a href="https://theglobalacademy.ac">theglobalacademy.ac</a></p></li><li>Writing and maintaining Python scripts used to retrieve job advertisements from client's jobs boards and import them into the GAJobs website ready for moderation.</li><li>Deploying these Python scripts onto a virtual machine running on MS Azure.</li><li>Editing and uploading job advertisements to Global Academy Jobs' academic jobs board.</li></ul><strong>Technologies Used</strong><br />Python, HTML/CSS, JavaScript, Git Version Control, Drupal, MS Azure<br><br><strong>Summary</strong><br />I joined Global Academy Jobs at the end of my first year of university. After 1 month I was offered a 10 week full time internship part funded by Santander's Universities SME internship scheme. After this I've continued completing various technical tasks whilst progressing with my university studies.<p class="resume-item-copy">
+  #summary: <strong>Key Responsibilities</strong><br /><ul class="resume-item-list"><li>Applying technical knowledge to a social enterprise project called The Global Academy. Providing technical knowledge to the decision making process and developing features required for the project website <p class="resume-item-copy"><a href="https://theglobalacademy.ac">theglobalacademy.ac</a></p></li><li>Writing and maintaining Python scripts used to retrieve job advertisements from client's jobs boards and import them into the GAJobs website ready for moderation.</li><li>Deploying these Python scripts onto a virtual machine running on MS Azure.</li><li>Editing and uploading job advertisements to Global Academy Jobs' academic jobs board.</li></ul><strong>Technologies Used</strong><br />Python, HTML/CSS, JavaScript, Git Version Control, Drupal, MS Azure<br><br><strong>Summary</strong><br />I joined Global Academy Jobs at the end of my first year of university. After 1 month I was offered a 10 week full time internship part funded by Santander's Universities SME internship scheme. After this I've continued completing various technical tasks whilst progressing with my university studies.<p class="resume-item-copy">
 #- company: Develop 1 Ltd
 #  position: Work Experience Student
 #  duration: July 2016
